@@ -1,0 +1,7 @@
+C:\thanhvien2\demoC\demo\bin\Debug\demo.exe
+C:\thanhvien2\demoC\demo\bin\Debug\demo.pdb
+C:\thanhvien2\demoC\demo\obj\x86\Debug\demo.Form1.resources
+C:\thanhvien2\demoC\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\thanhvien2\demoC\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+C:\thanhvien2\demoC\demo\obj\x86\Debug\demo.exe
+C:\thanhvien2\demoC\demo\obj\x86\Debug\demo.pdb
